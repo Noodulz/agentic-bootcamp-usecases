@@ -1,1 +1,1 @@
-Full pager guide guide in AskHR.pdf, image assets for other .MD files in hands-on-lab-assets folder.
+Full pager guide in AskHR.pdf, image assets for other .MD files in hands-on-lab-assets folder.
